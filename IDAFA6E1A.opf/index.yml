@@ -1,0 +1,67 @@
+id: 6f347407b28445cda9f173371b6b3503
+annotation_type: index
+revision: '00001'
+annotations:
+  c8071cb501db415294fd94478b90804e:
+    base: 323C.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 8
+    - title: Preface
+      span:
+        start: 9
+        end: 45
+    - title: 'Chapter I: Buddhakṣetrapariśuddhinidāna'
+      span:
+        start: 46
+        end: 2870
+    - title: 'Chapter II: Acintyopāyakauśalyaparivarta'
+      span:
+        start: 2871
+        end: 4141
+    - title: 'Chapter III: Śrāvakabodhisatvavisarjanapraśna'
+      span:
+        start: 4142
+        end: 10146
+    - title: 'Chapter IV: Glānapratisaṃmodanāparivarta'
+      span:
+        start: 10147
+        end: 12360
+    - title: 'Chapter V: Acintyavimokṣasaṃdarśanaparivarta'
+      span:
+        start: 12361
+        end: 14249
+    - title: 'Chapter VI: Devatāparivartaḥ'
+      span:
+        start: 14250
+        end: 16489
+    - title: 'Chapter VII: Tathāgatagotraparivarta'
+      span:
+        start: 16490
+        end: 18177
+    - title: 'Chapter VIII: Advayadharmamukhapraveśaparivarta'
+      span:
+        start: 18178
+        end: 19759
+    - title: 'Chapter IX: Nirmitabhojanānayanaparivarta'
+      span:
+        start: 19760
+        end: 21504
+    - title: 'Chapter X: Kṣayākṣayo'
+      span:
+        start: 21505
+        end: 23644
+    - title: 'Chapter XI: Abhiratilokadhātvānayanākṣobhyatathāgatadarśanaparivarta'
+      span:
+        start: 23645
+        end: 25089
+    - title: 'Chapter XII: Nigamanaparīndanāparivarta'
+      span:
+        start: 25090
+        end: 27349
+    - title: Colophon
+      span:
+        start: 27350
+        end: 27356

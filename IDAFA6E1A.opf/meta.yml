@@ -1,0 +1,16 @@
+id: IDAFA6E1A
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:37:39.936809
+last_modified: 2023-02-09 14:37:39.936921
+source_metadata:
+  title: Vimalakīrtinirdeśa
+  language: zh
+bases:
+  323C:
+    base_file: 323C.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
